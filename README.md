@@ -74,7 +74,8 @@ python homography.py image_source.jpg image_destination.jpg
 ## 📸 Exemple de résultat
 
 ```
-image0.jpg + image1.jpg + image2.jpg  ──►  panorama.jpg
+image0.jpg + image1.jpg + image2.jpg  ──►  panorama.jpg  ------->  Voici les resultat de l'assemblage : https://github.com/tarekflb/Panoramique-image-assembleur/tree/main/Resultat%20de%20l'assemblage
+
 ```
 
 Le résultat final est sauvegardé automatiquement sous `panorama.jpg`.
